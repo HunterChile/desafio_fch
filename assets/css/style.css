@@ -1,0 +1,64 @@
+
+.navbar-brand img{
+    width: 25%;
+}
+
+.navbar-brand img{
+    width: 100px;
+    height: 30px;
+}
+
+.card-title{
+    font-family: roboto;
+    font-weight: 300;
+}
+
+.precio-oferta{
+    font-size: 20px;
+}
+
+
+/* footer{
+    text-align: center;
+}
+
+footer img{
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+} */
+
+/* footer p{
+    font-family: roboto;
+    font-weight: 300;
+    font-size: 20px;
+    color: #707070;
+
+    
+} */
+
+
+.container h2{
+    font-family: roboto;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+/* .container form{
+    text-align: center;  
+    padding-bottom: 20px;  
+} */
+
+.precio-oferta{
+    color: #28A745;
+    font-weight: 500;
+}
+
+.precio-normal{
+    text-decoration: line-through;
+    
+}
